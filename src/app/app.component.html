@@ -1,8 +1,13 @@
 <div>
   <!-- UC1 :- Create a Helloworld Angular Appto display “Hello from BridgeLabz”  -->
-  <h1>{{this.title}}</h1>
+  <h1>Hello {{this.userName}} from BridgeLabz</h1>
 
    <!-- UC2 Ability To launch BridgeLabz Site in a new Tab on clicking BridgeLabz Logo -->
   <!-- UC3 Ability To launch BridgeLabz Site in a new Tab on clicking BridgeLabz Logo -->
   <img  [src]="imgUrl" (click)="onClick($event)" alt="#Briglabz">
+  <br>
+  <br>
+  
+  <!-- UC4 To display Hello from BridgeLabz with a user inputted name -->
+  <input placeholder="Enter Your Name" maxlength="10" (input)="onInput($event)" [(ngModel)]="userName"/>
 </div>

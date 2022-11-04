@@ -1,4 +1,4 @@
 # Hello World
 
-- Ability To launch BridgeLabz Site in a new Tab on clicking BridgeLabz Logo
+- To display Hello from BridgeLabz with a user inputted name
 
