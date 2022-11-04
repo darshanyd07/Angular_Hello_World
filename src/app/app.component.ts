@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent
  {
   title = 'Hello_World';
+  imgUrl="../assets/bb.PNG";
 
 
   ngOnInit(): void
