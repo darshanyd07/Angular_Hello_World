@@ -1,4 +1,4 @@
 # Hello World
 
-- To display BridgeLabz Logo using Property Binding Technique
+- Ability To launch BridgeLabz Site in a new Tab on clicking BridgeLabz Logo
 
