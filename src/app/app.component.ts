@@ -28,6 +28,7 @@ onClick($event: any)
 
   
   // To display Hello from BridgeLabz with a user inputted name
+  // To display Hello from BridgeLabz with a user inputted name Validation
   onInput($event:any)
   {
     console.log("change event occured!",$event.data);
