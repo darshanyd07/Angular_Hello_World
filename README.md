@@ -1,5 +1,5 @@
 # Hello World
 
-- Angular Data Binding
+- To display “Hello from BridgeLabz” using One Way Data Bindings
 
 

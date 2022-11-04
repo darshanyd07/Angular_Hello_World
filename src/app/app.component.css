@@ -1,0 +1,12 @@
+div
+{
+    text-align: center;
+    font-size: x-large;
+    color: blue;
+}
+h1:hover   
+{   
+   color: green; 
+   text-decoration: underline;
+   transform: scale(1.5);  
+}  
